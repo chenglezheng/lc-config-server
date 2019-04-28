@@ -1,2 +1,2 @@
-cloud:
-  version: Dalston.SR11
+server:
+  port: 80
