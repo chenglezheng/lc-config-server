@@ -1,2 +1,2 @@
-tracker
+tracker:
   server: tracker_server=192.168.254.128:22122
