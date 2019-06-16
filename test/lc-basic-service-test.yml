@@ -3,3 +3,5 @@ spring:
     url: jdbc:mysql://192.168.166.160:3306/lc
     username: root
     password: clz123456
+server:
+  port: 9001
