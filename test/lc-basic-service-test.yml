@@ -4,4 +4,4 @@ spring:
     username: root
     password: clz123456
 server:
-  port: 9000
+  port: 9002
